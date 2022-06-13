@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "prjCotacaoDolar",
-    "slug": "prjCotacaoDolar",
+    "name": "CotacaoDolarAPP",
+    "slug": "CotacaoDolarAPP",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
